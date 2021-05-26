@@ -1,13 +1,10 @@
-# workshop_git_and_gitflow_everis
-workshop_git_e_gitflow_everis
-
 <h1 align="center">
     <a>🚀 Git e GitFlow - Workshop 🚀</a>
 </h1>
 <p align="center">🚀 Workshop sobre Git e GitFlow - Introdução</p>
 Tabela de conteúdos
 =================
-<!--ts-->
+<ts>
    * [Introdução sobre controles de versão](#Introdução sobre controles de versão)
    * [História sobre o surgimento do GIT](#História sobre o surgimento do GIT)
    * [Git Chart](#Git Chart)
@@ -21,4 +18,4 @@ Tabela de conteúdos
    * [Primeiros comandos (Ambiente Local)](#Primeiros comandos (Ambiente Local))
    * [Git Flow](#Git Flow)
    * [Primeiros comandos com Git Flow](#Primeiros comandos com Git Flow)
-<!--te-->
+<te>
