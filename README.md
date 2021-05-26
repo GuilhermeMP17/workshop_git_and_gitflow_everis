@@ -1,21 +1,19 @@
 <h1 align="center">
     <a>🚀 Git e GitFlow - Workshop 🚀</a>
 </h1>
-<p align="center">🚀 Workshop sobre Git e GitFlow - Introdução</p>
-Tabela de conteúdos
-=================
-<ts>
-   * [Introdução sobre controles de versão](#Introdução sobre controles de versão)
-   * [História sobre o surgimento do GIT](#História sobre o surgimento do GIT)
-   * [Git Chart](#Git Chart)
-   * [Ambientes locais e romotos](#Ambientes locais e romotos)
-   * [Árvores/Branches](#Árvores/Branches)
-   * [Commits](#Commits)
-   * [Pull e Push](#Pull e Push)
-   * [Merges](#Merges)
-   * [Workflow](#Workflow)
-   * [Gitignore](#Gitignore)
-   * [Primeiros comandos (Ambiente Local)](#Primeiros comandos (Ambiente Local))
-   * [Git Flow](#Git Flow)
-   * [Primeiros comandos com Git Flow](#Primeiros comandos com Git Flow)
-<te>
+<p align="center">🚀 Workshop sobre Git e GitFlow - Introdução 🚀 </p>
+
+<p><a>Indice</a></p>
+<p align="left"> • Introdução sobre controles de versão</p>
+<p align="left"> • História sobre o surgimento do GIT</p>
+<p align="left"> • Git Chart</p>
+<p align="left"> • Ambientes locais e romotos</p>
+<p align="left"> • Árvores/Branches</p>
+<p align="left"> • Commits</p>
+<p align="left"> • Pull e Push</p>
+<p align="left"> • Merges</p>
+<p align="left"> • Workflow</p>
+<p align="left"> • Gitignore</p>
+<p align="left"> • Primeiros comandos (Ambiente Local)</p>
+<p align="left"> • Git Flow</p>
+<p align="left"> • Primeiros comandos com Git Flow</p>
