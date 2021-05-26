@@ -1,0 +1,16 @@
+8 - GitFlow
+
+git flow init                            //inicia um repositório utilizando git flow (git flow init –d gera tudo sem confirmação) 
+git branch                               // verifica sua branch
+git flow feature start tela_cadastro     // cria uma nova branch  do tipo feature para a criação da tela de cadastro
+git branch                               // verifica sua branch
+adiciona arquivo a.txt
+git add A.txt                            //adicionando arquivo A.txt a stage area
+git commit -m "[Add] A.txt"              // realiza o commit  
+git flow feature publish tela_cadastro   // publica no *repositório remote* sua nova branch tela_cadastro
+git flow feature finish tela_cadastro    // finaliza a tela_cadastro jogando para a branch release
+git flow release start v1.0.0            // Inicia uma branch de release v1.0.0
+git flow release publish v1.0.0          // publica a branch de release no *repositório remote*
+git flow release finish v1.0.0           // finaliza a branch de release publicando as alterações (master/develop) :wq!
+git tag                                  // mostra a tag criada 
+ 

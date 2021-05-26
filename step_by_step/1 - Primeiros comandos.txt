@@ -1,0 +1,11 @@
+Primeiros comandos com git (repositório local)
+
+mkdir git_wrkshp                                //criando diretório
+cd git_wrkshp                                   //entrando na pasta criada
+git init                                        // iniciando git
+git status                                      //verificando os arquivos 
+adicionando arquivo A.txt			//cria um txt denro da pasta
+git status                                      //verificando os arquivos
+git add A.txt                                   //adicionando arquivo A.txt a “stage área”
+git commit –m “adicionando arquivo A.txt”       //cria uma “snapshot”
+git status                                      //verificando os arquivos 

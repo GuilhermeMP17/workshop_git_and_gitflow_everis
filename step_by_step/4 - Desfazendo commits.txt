@@ -1,0 +1,6 @@
+4 - Desfazendo Commits
+
+editando A.txt            //adiciona linha 
+git diff                  // visualiza diferenças
+git checkout A.txt        // Desfaz a ultima alteração
+git diff 		  // sem alterações

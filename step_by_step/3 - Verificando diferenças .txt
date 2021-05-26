@@ -1,0 +1,5 @@
+3- Verificando diferenças
+
+editando A.txt           // realiza alterações no arquivo A.txt 
+git diff                 //apresenta as alterações
+git diff  --name-Only    // apresenta apenas o nome dos arquivos que foram alterados

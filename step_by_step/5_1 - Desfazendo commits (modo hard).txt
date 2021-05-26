@@ -1,0 +1,9 @@
+5 - Desfazendo commits (modo hard) 
+
+altera arquivo txt                     // adiciona linha 3
+git diff                               // visualiza diferenças 
+git add .                              // adiciona todos os arquivos a stage area  
+git commit -m "linha 3"		       // realiza o commit das alterações
+git reset --soft [hash do comit]       // volta o commit mas mantem a modificação na stage area
+git reset --mixed [hash do comit]      // volta o commit para o estado de modificado
+git reset --hard [hash do comit]       // volta e apaga tudo que foi alterado 

@@ -1,0 +1,14 @@
+6 - Criando branches e fazendo merges
+
+git checkout –b “nova_branch”                           // cria uma nova branch
+git branch                                              // verifica em qual branch estamos
+Adiciona texto no arquiv arquivo A.txt     
+git diff                                                // verifica alteração no arquivo A.txt
+git add a.txt		                                // adicionando arquivo b.txt na stage area
+git commit –m “[Add] linhas 3,4,5 no arquivo A.txt”     // faz o commit
+git checkout master		                        // muda para branch master
+git branch                                              // verifica em qual branch estamos
+git merge nova_branch	                                // realiza o merge 
+git branch -D nova_branch                               // deleta branch criada (-D de delete)
+git branch                                              // verifica em qual branch estamos
+git log                                                 // verificamos o commit realizado na branch "nova_branch"

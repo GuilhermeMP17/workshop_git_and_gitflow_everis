@@ -1,0 +1,8 @@
+2 - Visualizando os Logs gerados pelo GIT
+
+git log                        // apresenta os logs de commits
+git log  --author=“Gui”        // apresenta os logs com o author =“Gui”
+git shortlog                   // mostra apenas os nomes dos commits agrupados por author
+git shortlog -sn               // verificando os arquivos 
+git log --graph                // apresenta o grásfico de commits
+git show [hash_do_commit]      // apresenta as alterações do commit

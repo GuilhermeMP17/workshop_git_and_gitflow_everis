@@ -1,0 +1,5 @@
+7 - Repositório remoto
+
+git clone https://github.com/GuilhermeMP17/workshop_git_and_gitflow_everis.git   // clona um repositório remoto realiza alteração em algum documento 
+git pull                                                                         //pega as ultimas atualizações 
+git push                                                                         // realiza o envio das informações comitadas para o repositório remoto

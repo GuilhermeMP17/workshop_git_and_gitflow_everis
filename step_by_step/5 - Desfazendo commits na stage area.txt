@@ -1,0 +1,13 @@
+5 - Desfazendo commits na Stage Area
+
+altera arquivo A.txt             // adiciona linha 3
+git diff                         // visualiza diferenças
+git add .                        // adiciona todos os arquivos a stage area
+git status			 // verifica os itens modificado					
+git restore --staged A.txt       // retira allterações adicionadas a stage area
+git staus                        // verifique que o arquivo A.txt saiu da stage area
+git diff                         // arquivo volta para o status de modificado 
+git checkout A.txt               // desfaz as alterações do arquivo A.txt
+git diff                         // As alterações da linha 3 foram desfeitas
+
+
